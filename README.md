@@ -21,11 +21,11 @@
 Информация о подсчете общего числа баллов и о способе сдачи домашек появится позже.
 
 ## Dates-Materials Table
-### Жадные аппроксимации апостреиорного распределения 
+### Greedy Approximation of Posterior 
 (11-02 Evgenii)
 Zoom-запись:
-+ video:[youtube]()
-+ notes:[pdf](https://drive.google.com/file/d/1N1wUk66Nvvyx-2w0XKzOXFI_xUGHXoYY/view?usp=sharing)
++ video: [youtube](https://youtu.be/8clN3s5nM5w)
++ notes: [pdf](https://drive.google.com/file/d/1N1wUk66Nvvyx-2w0XKzOXFI_xUGHXoYY/view?usp=sharing)
 
 Статьи:
 + [Boosting Variational Inference](https://arxiv.org/abs/1611.05559)
@@ -34,7 +34,7 @@ Zoom-запись:
 ### Stochastic Variational Inferece 
 (18-02 Evgenii)
 Zoom-запись:
-+ video: [youtube]()
++ video: [youtube](https://youtu.be/a0kFH7BBhqs)
 + notes: [pdf](https://drive.google.com/file/d/1zt1LfZt_6SktnHkVHfKEi4MgD51PZRBv/view?usp=sharing)
 
 Статьи:
