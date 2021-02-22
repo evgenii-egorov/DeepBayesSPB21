@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+# DeepBaeys_Spb21
+Лекции by [Dmitriy Vetrov](https://www.hse.ru/staff/dvetrov), их записи предоставлены [Yandex School of Data Analysis](https://yandexdataschool.com)
 
-You can use the [editor on GitHub](https://github.com/evgenii-egorov/DeepBayesSPB21/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Семинаристы: [Evgenii Egorov](https://evgenii-egorov.github.io), [Denis Rakitin](https://www.hse.ru/org/persons/190910999)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+По вопросам, пишите: [Evgenii Egorov](mailto:egorov.evgenyy@ya.ru), [Denis Rakitin](mailto:rakitindenis32@gmail.com), тема письма: [DeepBayes Spb].
 
-### Markdown
+## Notifications channel
+Все объявления и оповещения по курсу публикаются в телеграмм-канале: https://t.me/joinchat/AAAAAEbrvkgUhTmvuiOL1Q
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Zoom
+Стартуем каждый четверг с 12:10 (Moscow time)
 
-```markdown
-Syntax highlighted code block
+- Meeting ID: 818 5851 9242
+- Passcode: смотрите Notifications channel
 
-# Header 1
-## Header 2
-### Header 3
+## Homeworks
+- инвайт в https://anytask.org 4rLOnDv
+- 4 практических домашних задания
+Каждое задание весит по 10 баллов.
+Информация о подсчете общего числа баллов и о способе сдачи домашек появится позже.
 
-- Bulleted
-- List
+## Dates-Materials Table
+### Жадные аппроксимации апостреиорного распределения 
+(11-02 Evgenii)
+Zoom-запись:
++ video:[youtube]()
++ notes:[pdf](https://drive.google.com/file/d/1N1wUk66Nvvyx-2w0XKzOXFI_xUGHXoYY/view?usp=sharing)
 
-1. Numbered
-2. List
+Статьи:
++ [Boosting Variational Inference](https://arxiv.org/abs/1611.05559)
++ [BooVAE](https://arxiv.org/abs/1908.11853)
 
-**Bold** and _Italic_ and `Code` text
+### Stochastic Variational Inferece 
+(18-02 Evgenii)
+Zoom-запись:
++ video: [youtube]()
++ notes: [pdf](https://drive.google.com/file/d/1zt1LfZt_6SktnHkVHfKEi4MgD51PZRBv/view?usp=sharing)
 
-[Link](url) and ![Image](src)
-```
+Статьи:
++ [Stochastic Variational Inference](https://www.jmlr.org/papers/volume14/hoffman13a/hoffman13a.pdf)
++ [Kullback-Leibler Proximal Variational Inference](https://papers.nips.cc/paper/2015/file/3214a6d842cc69597f9edf26df552e43-Paper.pdf)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Double Stochastic Variational Inferece
+(25-02 Denis)
 
-### Jekyll Themes
+### BNN and Local Re-parametrization
+(25-02 Denis)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/evgenii-egorov/DeepBayesSPB21/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### VAE, Normilizing Flows and IWAE
+(04-03 Evgenii)
 
-### Support or Contact
+### Control Variates for Latent Models
+(11-03 Denis)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Density Ratio Estimation and f-GAN
+(18-03 Evgenii)
+
+### Stochastic SoftMax
+(25-03 Denis)
+
+### Deep MCMC
+(11-04 Evgenii)
