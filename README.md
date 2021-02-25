@@ -44,6 +44,12 @@ Zoom-запись:
 ### Double Stochastic Variational Inferece
 (25-02 Denis)
 
++ notes: [pdf](https://drive.google.com/file/d/1mETobuOb5hwD_5cwZEgIzA_gpAj0buBF/view?usp=sharing)
+
+Статьи:
++ [Implicit Reparameterization Gradients](https://arxiv.org/pdf/1805.08498.pdf)
+
+
 ### BNN and Local Re-parametrization
 (25-02 Denis)
 
