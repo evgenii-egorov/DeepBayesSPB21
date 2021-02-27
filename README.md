@@ -46,8 +46,8 @@ Zoom-запись:
 + video: [youtube](https://youtu.be/Ol8IoWSq56Y)
 + notes: [pdf](https://drive.google.com/file/d/1mETobuOb5hwD_5cwZEgIzA_gpAj0buBF/view?usp=sharing)
 + additional materials: 
-+ + (slides wit simple problems-solutions)[https://github.com/evgenii-egorov/sk-bdl/blob/main/seminar_8/slides/2020_sk_bml_8.pdf]
-+ + (notebook with compartion)[https://github.com/evgenii-egorov/sk-bdl/blob/main/seminar_8/notebook/illustration_sem8.ipynb]
+  + [slides wit simple problems-solutions](https://github.com/evgenii-egorov/sk-bdl/blob/main/seminar_8/slides/2020_sk_bml_8.pdf)
+  + [notebook with compartion](https://github.com/evgenii-egorov/sk-bdl/blob/main/seminar_8/notebook/illustration_sem8.ipynb)
 
 Статьи:
 + [Implicit Reparameterization Gradients](https://arxiv.org/pdf/1805.08498.pdf)
