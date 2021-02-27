@@ -43,27 +43,29 @@ Zoom-запись:
 
 ### Double Stochastic Variational Inferece
 (25-02 Denis)
-
++ video: [youtube](https://youtu.be/Ol8IoWSq56Y)
 + notes: [pdf](https://drive.google.com/file/d/1mETobuOb5hwD_5cwZEgIzA_gpAj0buBF/view?usp=sharing)
++ additional materials: 
++ + (slides wit simple problems-solutions)[https://github.com/evgenii-egorov/sk-bdl/blob/main/seminar_8/slides/2020_sk_bml_8.pdf]
++ + (notebook with compartion)[https://github.com/evgenii-egorov/sk-bdl/blob/main/seminar_8/notebook/illustration_sem8.ipynb]
 
 Статьи:
 + [Implicit Reparameterization Gradients](https://arxiv.org/pdf/1805.08498.pdf)
 
-
 ### BNN and Local Re-parametrization
-(25-02 Denis)
+(04-03 Denis)
 
 ### VAE, Normilizing Flows and IWAE
-(04-03 Evgenii)
+(11-03 Evgenii)
 
 ### Control Variates for Latent Models
-(11-03 Denis)
+(18-03 Denis)
 
 ### Density Ratio Estimation and f-GAN
-(18-03 Evgenii)
+(25-03 Evgenii)
 
 ### Stochastic SoftMax
-(25-03 Denis)
+(04-04 Denis)
 
 ### Deep MCMC
 (11-04 Evgenii)
