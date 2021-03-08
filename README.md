@@ -54,6 +54,8 @@ Zoom-запись:
 
 ### BNN and Local Re-parametrization
 (04-03 Denis)
++ video: [youtube](https://youtu.be/EIFmaTIb1vk)
++ notes: [TBA](TBA)
 
 ### VAE, Normilizing Flows and IWAE
 (11-03 Evgenii)
