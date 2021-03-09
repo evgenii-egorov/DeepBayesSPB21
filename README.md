@@ -55,7 +55,11 @@ Zoom-запись:
 ### BNN and Local Re-parametrization
 (04-03 Denis)
 + video: [youtube](https://youtu.be/EIFmaTIb1vk)
-+ notes: [TBA](TBA)
++ notes: [pdf](https://drive.google.com/file/d/1GgFfAIoUxGZEeq8s9bw7_AZ3BFkh3wfO/view?usp=sharing)
+
+Статьи:
++ [Variational Dropout Sparsifies Deep Neural Networks](https://arxiv.org/pdf/1701.05369.pdf)
++ [Variational Dropout via Empirical Bayes](https://arxiv.org/pdf/1811.00596.pdf)
 
 ### VAE, Normilizing Flows and IWAE
 (11-03 Evgenii)
