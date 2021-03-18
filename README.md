@@ -66,6 +66,7 @@ Zoom-запись:
 
 ### Control Variates for Discrete Latent Variable Models
 (18-03 Denis)
++ video: [youtube](https://youtu.be/Rr36rH8D9C8)
 + notes: [pdf](https://drive.google.com/file/d/1acNhThNPEMOT4V6zafTCq4UaK7LuArW2/view?usp=sharing)
 
 Статьи:
