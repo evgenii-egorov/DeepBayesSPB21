@@ -64,8 +64,14 @@ Zoom-запись:
 ### VAE, Normilizing Flows and IWAE
 (11-03 Evgenii)
 
-### Control Variates for Latent Models
+### Control Variates for Discrete Latent Variable Models
 (18-03 Denis)
++ notes: [pdf](https://drive.google.com/file/d/1acNhThNPEMOT4V6zafTCq4UaK7LuArW2/view?usp=sharing)
+
+Статьи:
++ [REBAR](https://arxiv.org/pdf/1703.07370.pdf)
++ [RELAX](https://arxiv.org/pdf/1711.00123.pdf)
++ [Статья коллег про обобщение на перестановки](https://arxiv.org/pdf/1911.10036.pdf)
 
 ### Density Ratio Estimation and f-GAN
 (25-03 Evgenii)
