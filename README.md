@@ -79,6 +79,7 @@ Zoom-запись:
 
 ### Stochastic SoftMax
 (04-04 Denis)
++ video: [youtube](https://youtu.be/0Th9v4lNH0k)
 + notes: [pdf](https://drive.google.com/file/d/1eWBQhr8gWrqFydrZ3gfOnra7ndTaGZY5/view?usp=sharing)
 
 Статьи:
