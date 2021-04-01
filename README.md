@@ -79,6 +79,11 @@ Zoom-запись:
 
 ### Stochastic SoftMax
 (04-04 Denis)
++ notes: [pdf](https://drive.google.com/file/d/1eWBQhr8gWrqFydrZ3gfOnra7ndTaGZY5/view?usp=sharing)
+
+Статьи:
++ [Stochastic Softmax Tricks](https://arxiv.org/pdf/2006.08063.pdf)
++ [Sinkhorn](https://arxiv.org/pdf/1802.08665.pdf)
 
 ### Deep MCMC
 (11-04 Evgenii)
